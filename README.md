@@ -8,4 +8,4 @@ Working dir
 Stage
 Committed code
   
-new brach changes  
+new branch changes  

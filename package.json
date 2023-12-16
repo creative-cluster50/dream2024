@@ -1,0 +1,22 @@
+{
+  "name": "dream2024",
+  "version": "1.0.0",
+  "description": "- [] Learn Github - [] Travel to 5 countries - [] Get married",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creative-cluster50/dream2024.git"
+  },
+  "author": "99hard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creative-cluster50/dream2024/issues"
+  },
+  "homepage": "https://github.com/creative-cluster50/dream2024#readme",
+  "dependencies": {
+    "ethers": "^6.9.0"
+  }
+}
