@@ -3,7 +3,9 @@
 - [] Learn Github
 - [] Travel to 5 countries
 - [] Get married
+- [] Party 
 
 Working dir
 Stage
 Committed code
+
