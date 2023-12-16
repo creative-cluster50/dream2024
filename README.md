@@ -8,4 +8,4 @@ Working dir
 Stage
 Committed code
   
-  just trying 
+new brach changes  
